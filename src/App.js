@@ -1,12 +1,12 @@
 import './App.css';
 import Header from "./components/header";
-import Experiences from "./components/experiences";
+import Hero from "./components/hero";
 
 function App() {
   return (
     <div>
       <Header />
-      <Experiences />
+      <Hero />
     </div>
   );
 }

@@ -1,19 +1,23 @@
 nav {
-  height: 90px;
+  height: 70px;
+  display: flex;
   box-shadow: 2px 2px 10px lightgray;
 }
 
 nav > img {
-  margin: 0;
   padding-left: 20px;
-  height: 90%;
 }
 
-.experiences {
+.hero {
   padding: 30px;
   font-family: 'Poppins', sans-serif;
 }
 
-.experiences--text {
+.hero--text {
   max-width: 300px;
+}
+
+.hero--img {
+  margin: 0;
+  max-width: 200px;
 }
