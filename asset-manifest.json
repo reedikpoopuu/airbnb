@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/airbnb/static/css/main.a41d7b88.css",
-    "main.js": "/airbnb/static/js/main.637bc3d4.js",
+    "main.css": "/airbnb/static/css/main.caff78fd.css",
+    "main.js": "/airbnb/static/js/main.1ead9750.js",
     "static/media/img-spiced-rum.jpg": "/airbnb/static/media/img-spiced-rum.b28d32528637cd8d6c2d.jpg",
     "static/media/airbnb-logo.png": "/airbnb/static/media/airbnb-logo.85ddc21e290fb4fa8b9e.png",
     "index.html": "/airbnb/index.html",
-    "main.a41d7b88.css.map": "/airbnb/static/css/main.a41d7b88.css.map",
-    "main.637bc3d4.js.map": "/airbnb/static/js/main.637bc3d4.js.map"
+    "main.caff78fd.css.map": "/airbnb/static/css/main.caff78fd.css.map",
+    "main.1ead9750.js.map": "/airbnb/static/js/main.1ead9750.js.map"
   },
   "entrypoints": [
-    "static/css/main.a41d7b88.css",
-    "static/js/main.637bc3d4.js"
+    "static/css/main.caff78fd.css",
+    "static/js/main.1ead9750.js"
   ]
 }
