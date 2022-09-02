@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/airbnb/static/css/main.d9e14364.css",
-    "main.js": "/airbnb/static/js/main.21debf7a.js",
-    "static/media/img-bedford-bizarre.jpg": "/airbnb/static/media/img-bedford-bizarre.ad017d2367d5e99d93cb.jpg",
+    "main.css": "/airbnb/static/css/main.b061d5e0.css",
+    "main.js": "/airbnb/static/js/main.cf4dfa91.js",
     "static/media/img-spiced-rum.jpg": "/airbnb/static/media/img-spiced-rum.b28d32528637cd8d6c2d.jpg",
     "static/media/img-myrtle-ave.jpg": "/airbnb/static/media/img-myrtle-ave.a79771ca415261cfc1b3.jpg",
-    "static/media/img-donut.jpg": "/airbnb/static/media/img-donut.3e7e31f0f859b9293fa2.jpg",
-    "static/media/img-berryblitz.jpg": "/airbnb/static/media/img-berryblitz.53eef871d18b54fefe2a.jpg",
+    "static/media/img-bedford-bizarre-small.jpg": "/airbnb/static/media/img-bedford-bizarre-small.975b008a72b144e81761.jpg",
+    "static/media/img-donut-small.jpg": "/airbnb/static/media/img-donut-small.cf4a676ab9236432d4d0.jpg",
     "static/media/img-mission-background.jpg": "/airbnb/static/media/img-mission-background.25f29d06ec64098a6728.jpg",
+    "static/media/img-berryblitz-small.jpg": "/airbnb/static/media/img-berryblitz-small.2183545432b9876042af.jpg",
     "static/media/img-locations-background.jpg": "/airbnb/static/media/img-locations-background.28762c2474972468d52c.jpg",
     "static/media/favorite-1.jpg": "/airbnb/static/media/favorite-1.baa773645bc4fa729802.jpg",
-    "static/media/airbnb-logo.png": "/airbnb/static/media/airbnb-logo.85ddc21e290fb4fa8b9e.png",
+    "static/media/tomz0266__medium.jpg": "/airbnb/static/media/tomz0266__medium.10409a0547834db779f4.jpg",
     "index.html": "/airbnb/index.html",
-    "main.d9e14364.css.map": "/airbnb/static/css/main.d9e14364.css.map",
-    "main.21debf7a.js.map": "/airbnb/static/js/main.21debf7a.js.map"
+    "main.b061d5e0.css.map": "/airbnb/static/css/main.b061d5e0.css.map",
+    "main.cf4dfa91.js.map": "/airbnb/static/js/main.cf4dfa91.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9e14364.css",
-    "static/js/main.21debf7a.js"
+    "static/css/main.b061d5e0.css",
+    "static/js/main.cf4dfa91.js"
   ]
 }
