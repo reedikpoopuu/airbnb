@@ -1,39 +1,29 @@
-import React from "react";
 import './App.css';
 import Header from "./components/header";
 import Hero from "./components/hero";
 import Card from "./components/card";
-import pic1 from "./images/tomz0266__medium.jpg";
+import cardsData from "./components/data";
 
-function App() {
+export default function App() {
+  const cardElements = cardsData.map(card => {
+    return <Card 
+    pic={card.pic}
+    status={card.status}
+    rating={card.rating}
+    comments={card.comments}
+    country={card.location}
+    title={card.title}
+    currency={card.currency}
+    price={card.price}
+    />
+  })
   return (
     <div>
       <Header />
       <Hero />
       <div className='card--holder'>
-        <Card 
-        pic={pic1}
-        status="SOLD OUT"
-        rating="5.0"
-        comments="6"
-        country="USA"
-        title="Life lessons with Katie Zaferes"
-        currency="$"
-        price="136"
-        />
-        <Card 
-        pic={pic1}
-        status="LAST TICKETS"
-        rating="4.3"
-        comments="22"
-        country="Netherlands"
-        title="Adventures of Alice in Wonderland"
-        currency="€"
-        price="205"
-        />
+      {cardElements}
       </div>
     </div>
   );
 }
-
-export default App;
