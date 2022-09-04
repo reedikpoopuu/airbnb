@@ -108,6 +108,10 @@ nav > img {
   border-radius: 9px;
 }
 
+.card--data {
+  width: 175px;
+}
+
 .card--status {
   position: absolute;
   top: 2px;
@@ -125,39 +129,4 @@ nav > img {
 
 .card--star {
   height: 1em;
-}
-
-.contact--card {
-  width: 250px;
-  height: 300px;
-  margin-right: 25px;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  box-shadow: 2px 2px 5px gray;
-}
-
-.contact--img {
-  height: 60%;
-  object-fit: cover;
-  margin: 10px;
-  border-radius: 8px;
-}
-
-.contact--name {
-  margin: 5px 15px;
-}
-
-.contact--info-group {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  font-size: 10px;
-  margin-left: 15px;
-}
-
-.contact--info-group > img, .contact--info-group > p {
-
-  height: 1.2em;
-  margin: 5px 5px 0px 0px;
 }

@@ -1,18 +1,16 @@
 import star from "../images/star-solid.png";
-import pic from "../images/tomz0266__medium.jpg";
 
-export default function Card() {
+export default function Card(props) {
     return(
         <div className="card">
             <div className="card--hero">
-                <img src={pic} alt="pic" className="card--img"></img>
-                <p className="card--status">SOLD OUT</p>
+                <img src={props.pic} alt="pic" className="card--img"></img>
+                <p className="card--status">{props.status}</p>
             </div>
             <div className="card--data">
-                
-                <p className="card--rating"><img src={star} className="card--star" alt="star"></img> 5.0 <span className="card--comments">(6)-USA</span></p>
-                <p className="card--title">Life lessons with Katie Zaferes</p>
-                <p className="card--rate"><strong>From $136</strong>/ person</p>
+                <p className="card--rating"><img src={star} className="card--star" alt="star"></img> {props.rating} <span className="card--comments">({props.comments})-{props.country}</span></p>
+                <p className="card--title">{props.title}</p>
+                <p className="card--rate"><strong>From {props.currency}{props.price}</strong>/ person</p>
             </div>
         </div>
     )
