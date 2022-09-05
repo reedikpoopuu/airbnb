@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/airbnb/static/css/main.dd7287b2.css",
-    "main.js": "/airbnb/static/js/main.5ba80b49.js",
+    "main.css": "/airbnb/static/css/main.ba04721f.css",
+    "main.js": "/airbnb/static/js/main.c5e29d2f.js",
     "static/media/img-spiced-rum.jpg": "/airbnb/static/media/img-spiced-rum.b28d32528637cd8d6c2d.jpg",
     "static/media/img-myrtle-ave.jpg": "/airbnb/static/media/img-myrtle-ave.a79771ca415261cfc1b3.jpg",
     "static/media/cat.jpg": "/airbnb/static/media/cat.d52ec86300ea8e714188.jpg",
@@ -13,11 +13,11 @@
     "static/media/favorite-1.jpg": "/airbnb/static/media/favorite-1.baa773645bc4fa729802.jpg",
     "static/media/tomz0266__medium.jpg": "/airbnb/static/media/tomz0266__medium.10409a0547834db779f4.jpg",
     "index.html": "/airbnb/index.html",
-    "main.dd7287b2.css.map": "/airbnb/static/css/main.dd7287b2.css.map",
-    "main.5ba80b49.js.map": "/airbnb/static/js/main.5ba80b49.js.map"
+    "main.ba04721f.css.map": "/airbnb/static/css/main.ba04721f.css.map",
+    "main.c5e29d2f.js.map": "/airbnb/static/js/main.c5e29d2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd7287b2.css",
-    "static/js/main.5ba80b49.js"
+    "static/css/main.ba04721f.css",
+    "static/js/main.c5e29d2f.js"
   ]
 }
