@@ -1,8 +1,8 @@
 export default [
 {
     id: 1,
+    item: {
     pic: require("../images/tomz0266__medium.jpg"),
-    status: "SOLD OUT",
     stats: {
         rating: 5.0,
         reviewCount: 6
@@ -13,11 +13,12 @@ export default [
     currency: "$",
     price: "136",
     openSpots: 0
+}
 },
 {
     id: 2,
+    item: {
     pic: require("../images/img-donut-small.jpg"),
-    status: "COMING SOON",
     stats: {
         rating: 4.3,
         reviewCount: 22
@@ -28,11 +29,12 @@ export default [
     currency: "NOK ",
     price: "205",
     openSpots: 27
+}
 },
 {
     id: 3,
+    item: {
     pic: require("../images/cat.jpg"),
-    status: "LAST SPOTS",
     stats: {
         rating: 5.0,
         reviewCount: 30
@@ -43,5 +45,6 @@ export default [
     currency: "€",
     price: "125",
     openSpots: 3
+}
 }
 ]
